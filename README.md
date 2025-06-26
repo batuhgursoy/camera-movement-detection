@@ -69,6 +69,10 @@ The app provides fine-grained control over the detection algorithm:
 
 ## Sample Output
 
-The application now provides a detailed report for each detected movement.
+The application provides a detailed, frame-by-frame report for each detected movement instance, distinguishing between smooth pans and rapid shakes.
+
+| Smooth Pan Detection | Rapid Shake/Jitter Detection |
+| :---: | :---: |
+| ![Pan Left Detection](./assets/sample-output.png) | ![Shake Detection](./assets/sample-output2.png) |
 
 *(You can add a new screenshot of the advanced UI here.)*
