@@ -32,8 +32,8 @@ The algorithm was re-engineered from a basic proof-of-concept to a robust, multi
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repo-directory>
+    git clone https://github.com/batuhgursoy/camera-movement-detection.git
+    cd camera-movement-detection
     ```
 
 2.  **Create and activate a virtual environment:**
