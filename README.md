@@ -75,8 +75,4 @@ The application provides a detailed, frame-by-frame report for each detected mov
 | :---: | :---: |
 | ![Pan Left Detection](./assets/sample-output.png) | ![Shake Detection](./assets/sample-output2.png) |
 
-## Tech Stack & Features
-
-<!-- ... existing code ... -->
-
 
